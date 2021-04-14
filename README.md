@@ -9,6 +9,8 @@ push buttons, shift registers and PH connectors.
 
 Touchpad springs and LEDs are going to be recovered from the original PCB.
 
+![preview](./preview.jpg)
+
 ## Taking the original board out
 
 The top cover comes off by inserting a spudger tool between the top white and gray plastic parts.
