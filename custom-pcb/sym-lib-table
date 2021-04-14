@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 74HC595D_118)(type Legacy)(uri ${KIPRJMOD}/../libraries/shift-reg/74HC595D_118.lib)(options "")(descr ""))
+  (lib (name touchpad_spring)(type Legacy)(uri /home/depau/Beans-Unencrypted/air-purifier-pcb/libraries/springs/touchpad_spring.lib)(options "")(descr ""))
+)
