@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Levoit Purifier ESP32 PCB"
-Date "2021-04-13"
-Rev "v0.1"
+Date "2021-05-18"
+Rev "v0.2"
 Comp "Davide Depau"
 Comment1 ""
 Comment2 ""
@@ -186,7 +186,7 @@ L Device:C_Small C5
 U 1 1 60781112
 P 5050 1350
 F 0 "C5" H 5142 1396 50  0000 L CNN
-F 1 "0u1" H 5142 1305 50  0000 L CNN
+F 1 "10u" H 5142 1305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 5050 1350 50  0001 C CNN
 F 3 "~" H 5050 1350 50  0001 C CNN
 F 4 "C1525" H 5050 1350 50  0001 C CNN "LCSC Part"
