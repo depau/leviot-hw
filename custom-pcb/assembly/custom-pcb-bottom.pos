@@ -1,0 +1,67 @@
+### Module positions - created on Mon May 24 22:33:31 2021 ###
+### Printed by Pcbnew version (5.99.0-10634-g5f56117be9)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                           PosX       PosY       Rot  Side
+C1        22u             C_0805_2012Metric                             108.7120   -90.6780   90.0000  bottom
+C2        0u1             C_0805_2012Metric                             124.7140   -73.1520  180.0000  bottom
+C3        0u1             C_0805_2012Metric                             124.2568   -81.8388  -90.0000  bottom
+C4        22u             C_0805_2012Metric                             103.0580   -84.3280    0.0000  bottom
+C5        10u             C_0402_1005Metric                             131.3180   -53.0860  180.0000  bottom
+C6        0u1             C_0402_1005Metric                             100.4570   -74.0410  100.0000  bottom
+C7        22u             C_0805_2012Metric                             124.7140   -51.8160  100.0000  bottom
+C8        0u1             C_0805_2012Metric                             122.6820   -52.0700  100.0000  bottom
+C9        0u1             C_0402_1005Metric                             121.8464   -82.8548  180.0000  bottom
+C10       0u1             C_0402_1005Metric                             142.8750   -73.1520  -90.0000  bottom
+C11       0u1             C_0402_1005Metric                             100.0760   -98.5520  180.0000  bottom
+C12       0u1             C_0402_1005Metric                             136.1720   -73.9140  180.0000  bottom
+C13       0u1             C_0402_1005Metric                             125.8202  -105.6132    0.0000  bottom
+C14       0u1             C_0402_1005Metric                             124.9680   -56.8960  180.0000  bottom
+C15       0u1             C_0402_1005Metric                             114.8334  -107.6960    0.0000  bottom
+C16       0u1             C_0402_1005Metric                              96.7740   -57.4040    0.0000  bottom
+C17       0u1             C_0402_1005Metric                             101.1086  -105.4862    0.0000  bottom
+C18       0u1             C_0402_1005Metric                             128.1430   -94.7700  -90.0000  bottom
+C19       0u1             C_0402_1005Metric                             128.9050   -56.0070  180.0000  bottom
+C20       0u1             C_0402_1005Metric                             124.9680   -55.8800  180.0000  bottom
+C21       0u1             C_0402_1005Metric                              85.2170   -72.7710  180.0000  bottom
+R1        560R            R_0603_1608Metric                             121.3104   -81.5848    0.0000  bottom
+R2        1k              R_0402_1005Metric                             120.1420   -88.0110  180.0000  bottom
+R3        1k              R_0402_1005Metric                             124.2080   -71.6280  180.0000  bottom
+R4        560R            R_0603_1608Metric                             144.1450   -73.1520   90.0000  bottom
+R5        560R            R_0603_1608Metric                             100.0760   -95.7580   90.0000  bottom
+R6        560R            R_0603_1608Metric                             138.7480   -73.9140  180.0000  bottom
+R7        1k5             R_0402_1005Metric                             123.7882  -105.6132    0.0000  bottom
+R8        1k5             R_0402_1005Metric                             124.9680   -57.9120    0.0000  bottom
+R9        1k5             R_0402_1005Metric                             112.5474  -107.6960    0.0000  bottom
+R10       1k5             R_0402_1005Metric                              99.5566  -106.2482   90.0000  bottom
+R11       10k             R_0402_1005Metric                             131.3180   -54.1020    0.0000  bottom
+R12       1k5             R_0402_1005Metric                              94.8710   -56.8960  180.0000  bottom
+R13       1k5             R_0402_1005Metric                             130.4290   -56.7690   90.0000  bottom
+R14       200R            R_0402_1005Metric                              87.1220   -72.7710  180.0000  bottom
+R15       10k             R_0402_1005Metric                              99.4410   -74.1680  -80.0000  bottom
+R16       1k5             R_0402_1005Metric                             124.9660   -54.8620    0.0000  bottom
+R17       470R            R_0402_1005Metric                             131.3180   -52.0700    0.0000  bottom
+R18       47R             R_0402_1005Metric                             112.1880   -92.1580   90.0000  bottom
+R19       47R             R_0402_1005Metric                             114.2200   -92.1600   90.0000  bottom
+R20       47R             R_0402_1005Metric                             116.2520   -92.1580   90.0000  bottom
+R21       470R            R_0402_1005Metric                             101.4346   -73.9083  100.0000  bottom
+R22       47R             R_0402_1005Metric                             118.0300   -92.1600   90.0000  bottom
+R23       470R            R_0402_1005Metric                             108.7120  -108.9660   77.0000  bottom
+R24       470R            R_0402_1005Metric                             107.6960  -108.7120   77.0000  bottom
+R25       470R            R_0402_1005Metric                              99.3140   -68.8340  -90.0000  bottom
+R26       10k             R_0402_1005Metric                             127.4064   -81.9912  -90.0000  bottom
+R27       560R            R_0603_1608Metric                             126.8730   -95.2500   90.0000  bottom
+R28       510R            R_0402_1005Metric                             117.6020   -73.9140   70.0000  bottom
+R29       510R            R_0402_1005Metric                             133.6040   -90.8050  120.0000  bottom
+R30       510R            R_0402_1005Metric                             135.2550   -77.9780  150.0000  bottom
+R31       510R            R_0402_1005Metric                             129.2860   -65.4050  180.0000  bottom
+R32       510R            R_0402_1005Metric                              92.4560   -77.4700   30.0000  bottom
+R33       510R            R_0402_1005Metric                              94.2340   -71.7550    0.0000  bottom
+R34       510R            R_0402_1005Metric                              94.9960   -91.0590   60.0000  bottom
+SW1       RESET           Tactile_Push_Button_SMD_3x3x1.5mm.kicad_mod   132.7150  -108.3310  -55.0000  bottom
+SW2       BOOT            Tactile_Push_Button_SMD_3x3x1.5mm.kicad_mod   128.3194  -111.0315  -60.0000  bottom
+U1        AMS1117-3.3     SOT-223-3_TabPin2                             102.8700   -89.1540  180.0000  bottom
+U2        74HCT595PW,118  TSSOP-16_4.4x5mm_P0.65mm                      126.7460   -77.2160  180.0000  bottom
+U3        74HCT595PW,118  TSSOP-16_4.4x5mm_P0.65mm                      126.7460   -86.3600  180.0000  bottom
+U4        ESP32-WROOM-32  ESP32-WROOM-32                                110.6172   -62.2029  -170.0000  bottom
+## End

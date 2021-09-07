@@ -1,0 +1,16 @@
+### Module positions - created on Mon May 24 22:33:31 2021 ###
+### Printed by Pcbnew version (5.99.0-10634-g5f56117be9)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref             Val                     Package                                             PosX       PosY       Rot  Side
+D5                I                       LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   124.8550  -107.0610    0.0000  top
+D6                6H                      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   109.2200   -54.2036    0.0000  top
+D7                II                      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   113.6650  -109.3724    0.0000  top
+D8                III                     LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   102.2490  -106.8070    0.0000  top
+D9                8H                      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   100.2030   -57.4040    0.0000  top
+D10               2H                      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   128.2700   -57.5310  180.0000  top
+D12               4H                      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder   119.1260   -54.2290    0.0000  top
+SW10              RESET_D                 Tactile_Push_Button_SMD_3x3x1.5mm.kicad_mod      85.9790   -49.1490   45.0000  top
+SW11              BOOT_D                  Tactile_Push_Button_SMD_3x3x1.5mm.kicad_mod      82.0420   -53.0860   45.0000  top
+board_alignments  LEVOIT_CTL_BOARD_ALIGN  board-alignments                                114.1476   -81.1784    0.0000  top
+## End

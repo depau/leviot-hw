@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name 74HC595D_118)(type Legacy)(uri ${KIPRJMOD}/../libraries/shift-reg/74HC595D_118.lib)(options "")(descr ""))
-  (lib (name touchpad_spring)(type Legacy)(uri /home/depau/Beans-Unencrypted/air-purifier-pcb/libraries/springs/touchpad_spring.lib)(options "")(descr ""))
+  (lib (name "74HC595D_118")(type "KiCad")(uri "${KIPRJMOD}/../libraries/shift-reg/74HC595D_118.kicad_sym")(options "")(descr ""))
+  (lib (name "touchpad_spring")(type "KiCad")(uri "/home/depau/Beans-Unencrypted/air-purifier-pcb/libraries/springs/touchpad_spring.kicad_sym")(options "")(descr ""))
+  (lib (name "custom-pcb-rescue")(type "KiCad")(uri "${KIPRJMOD}/custom-pcb-rescue.kicad_sym")(options "")(descr ""))
 )
